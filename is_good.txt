@@ -1,3 +1,4 @@
 {
+	"will_trigger": true,
 	"date": "07-31-2024"
 }
